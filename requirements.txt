@@ -1,0 +1,8 @@
+streamlit
+pandas
+pydeck
+seaborn
+matplotlib
+PIL
+plotly
+time
