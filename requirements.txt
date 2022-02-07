@@ -3,6 +3,6 @@ pandas
 pydeck
 seaborn
 matplotlib
-PIL
+Pillow
 plotly
 time
