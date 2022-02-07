@@ -1,8 +1,8 @@
-streamlit
-pandas
-pydeck
-seaborn
-matplotlib
+Streamlit
+Pandas
+Pydeck
+Seaborn
+Matplotlib
 Pillow
-plotly
-time
+Plotly
+Time
